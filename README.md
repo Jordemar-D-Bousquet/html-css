@@ -1,4 +1,4 @@
 # html-css
  HTML e CSS
 
-Aulas e projeto de html r css do Curso em Vídeo
+Aulas e projeto de html e css do Curso em Vídeo
